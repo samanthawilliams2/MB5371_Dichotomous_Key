@@ -1,0 +1,40 @@
+Trait Category,Trait Name,Trait Options,Goniastrea pectinata,Goniastrea retiformis,Platygyra lamellina,Oulophyllia crispa,Oulophyllia bennettae,Caulastrea furcata,Leptoria phrygia,Goniastrea palauensis,Goniastrea australensis,Gloniastrea edwardsi,Goniastrea favulus,Caulastrea curvata,Favites russelli,Favites rotundata,Favites pentagona,Echinopora horrida,Hydnophora rigida,Platygyra daedalea,Platygyra zelli,Coelastrea aspera
+OVERALL MORPHOLOGY,Growth type,"Encrusting, 2D, 3D",2D,3D,3D,3D,3D,3D,3D,3D,3D,3D,3D,3D,3D,3D,3D,2D,3D,3D,3D,3D
+,Base of attachment (relative to planar area),"whole (""whole""), partial, limited",partial,partial,partial,partial,partial,partial,whole,partial,partial,whole,whole,partial,partial,partial,partial,partial,partial,whole,partial,whole
+,Columns,"absent, 0 - 3 cm (0-3), >3 cm diameter ("">3"")",absent,absent,absent,absent,absent,0-3,absent,absent,absent,absent,absent,0-3,absent,absent,absent,absent ,absent,absent,absent,absent
+,Branches or branchlets,"absent, primary, secondary, tertiary",absent,absent,absent,absent,absent,tertiary,absent,absent,absent,absent,absent,tertiary,absent,absent,absent,absent ,tertiary,absent,secondary,absent
+,Branch thickness,Measure in mm (at least 5 branches per colony),absent,absent,absent,absent,absent,15,absent,absent,absent,absent,absent,15,absent,absent,absent,absent ,12,absent,2,absent
+,Branch spacing,Measure in mm (at least 5 branches per colony),absent,absent,absent,absent,absent,30,absent,absent,absent,absent,absent,30,absent,absent ,absent,absent ,20,absent,5,absent
+CORALLITE ARRANGEMENT,Corallite walls,Shared or separate,shared,shared,shared,shared,shared,separate,shared,shared,shared,shared,shared,separate,shared,separate,seperate,separate,shared,shared,shared,shared
+,Corallite centres,"Monocentric, 2 - 3 mouths (""2-3""), > 3 mouths ("">3"")",monocentric,monocentric,>3,>3,monocentric,monocentric,>3,monocentric,>3,monocentric,monocentric,monocentric,monocentric,monocentric,monocentric,monocentric,>3,>3,2-3,monocentric
+,"Calice size (opening, inner diameter)",Measure in mm (at least 5 corallites),1,0.6,0.4,5,5,5,1,1.5,1.5,1,2,5,3,3,1,1,1,2,2,2
+,Wall thickness,Measure in mm (at least 5 corallites),2,1,4,3,3,1,2,2.5,1.75,1.2,1.5,1,8,2.2,0.1,0.7,1,1,2,1
+,Outer wall shape,"Absent, straight, sloping",absent,straight,sloping,absent,absent,straight,absent,absent,absent,absent,absent,straight,absent,absent,absent,absent,sloping,straight,straight,absent
+,Inner wall shape,"Straight, sloping",sloping,straight,sloping,straight,sloping,sloping,sloping,sloping,sloping,sloping,sloping,sloping,sloping,sloping,sloping,sloping,sloping,straight,straight,sloping
+,Corallite protrusion,"Plocoid, immersed, or intermediate",immersed,immersed,immersed,immersed,immersed,immersed,immersed,immersed,immersed,immersed,immersed,immersed,immersed,immersed,immersed,intermediate,plocoid,immersed,immersed,immersed
+,Corallite distribution,"Clumped, arranged in rows (""rows""), uniform",uniform,uniform,rows,uniform,uniform,uniform,rows,uniform,uniform,uniform,uniform,uniform,uniform,uniform,uniform,uniform,uniform,clumbed,clumbed,uniform
+,Corallite angle,Vertical or inclined,vertical,vertical,vertical,inclined,inclined,inclined,vertical,vertical,vertical,vertical,vertical,inclined,vertical,vertical,vertical,vertical,vertical,vertical,vertical,vertical
+,Corallite budding,Intratentacular or extratentacular,intratentacular,intratentacular,extratentacular,intratentacular,intratentacular,intratentacular,extratentacular,intratentacular,intratentacular,intratentacular,intratentacular,intratentacular,intratentacular,intratentacular,intratentacular,intertentacular,extratentacular,intertentacular,intertentacular,intratentacular
+,Corallite density,Count per cm2 (at least 3 replicates),2.5,3.5,2,2,1,1,3,1,0.5,2.8,2,1,1,1,4,2,6,3,3,1.6
+,Corallite spacing,Measure in mm (at least 5 corallites),0.3,0.2,0.4,5,5,30,3,2.5,1.75,1.2,1,30,4,1.5,0.5,2,2,3,7,1
+,Columella,"Absent, tangle, plate, solid",solid,tangle,plate,tangle,tangle,absent,plate,tangle,tangle,tangle,tangle,absent,absent,tangle,tangle,absent,absent,absent,absent,plate
+FEATURES OF SEPTA and COSTAE,Directive septum,Present or Absent,present,present,present,present,present,present,present,present,present,present,present,present,present,present,present,present,present,present,present,present
+,Number of septa,"Up to 6 (""<6""), 1 cycle (""1""), 2 cycles (""2""), > 2 cycles ("">2"")",>2,>2,>2,1,1,1,>6,>2,>2,>2,>2,1,>2,>2,>2,2,1,1,1,>2
+,Paliform lobes,Present or Absent,absent,absent,absent,present,present,present,absent,present,present,present,absent,present,present,present,present,absent,absent,tangle,absent,present
+,Septa thickness,Fine or Thick,fine,fine,thick,fine,fine,fine,thick,fine,fine,fine,fine,fine,fine,fine,fine,fine,fine,fine,fine,fine
+,Septa height,"Even height (""even""), irregular heights (""irregular"")",even,even,even,even,even,even,even,irregular,even,even,irregular,even,even,irregular ,even,even,even,even,irregular,even
+,Septa alignment,"aligned between corallites (""aligned""), offset between corallites (""offset"")",aligned,aligned,offset,aligned,aligned,aligned,offset,aligned,aligned,aligned,alligned,aligned,aligned,aligned,aligned,aligned,aligned,aligned,aligned,aligned
+,Septa angle,Vertical or sloping,sloping,sloping,sloping,vertical,vertical,vertical,vertical,sloping,sloping,sloping,vertical,vertical,vertical,vertical,vertical,vertical,sloping,vertical ,vertical ,vertical
+,Septa shape,Straight or petaloid,straight,straight,petaloid,straight,straight,straight,straight,straight,straight,straight,straight,straight,straight,straight,straight,straight,petaloid,straight,straight,straight
+,Septa ornamentation,"Teeth, clubs, spines or smooth",smooth,smooth,teeth,smooth,smooth,teeth,smooth,teeth,teeth,teeth,teeth,teeth,smooth,spines,straight,teeth,smooth,teeth,teeth,smooth
+,Costae,Present or Absent,absent,absent,absent,absent,absent,present,absent,absent,absent,absent,absent,present ,absent,absent ,absent ,present,absent,absent,absent,present
+,Costae thickness,Thick or thin,absent,absent,absent,absent,absent,thin,absent,absent,absent,absent,absent,thin,absent,thin,absent,thin,absent,absent,absent,thin
+,Costae ornamentation,Beaded or smooth,absent,absent,absent,absent,absent,beaded,absent,absent,absent,absent,absent,beaded,absent,beaded,absent,smooth,absent,smooth,smooth,smooth
+FEATURES OF COENOSTEUM,Ridge direction,"Absent, parallel to edge (""parallel""), perpendicular to edge, multidirectional",absent,absent,absent,absent,absent,parrallel to edge ,absent,absent,absent,absent,absent,parallel,absent,absent,absent,perpendicular to edge,absent,absent,absent,absent
+,Ridge size,"Continuous, broken",absent,absent,absent,absent,absent,continuous,absent,absent,absent,absent,absent,broken,broken,absent,broken,continuous,absent,absent,absent,absent
+,Septo-costae,Present or Absent,present,absent,absent,absent,absent,present,absent,present,present,present,absent,present,present,absent ,absent,absent,absent,absent,absent,present
+,Bumps (verrucae or hydnophores etc),"Present with corallites, present without corallites, or absent",absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
+,Granulated or 'sugary',Present or Absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
+,Spinules,"Absent, fine, fused",absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
+,Epitheca,Present or Absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,present,absent,absent,absent,absent
+,Rootlets,Present or Absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent

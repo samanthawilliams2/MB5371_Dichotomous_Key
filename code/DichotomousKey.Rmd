@@ -1,0 +1,22 @@
+---
+title: "DichotomousKey"
+author: "Samantha Williams"
+date: '2025-04-09'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load data:
+```{r}
+coraldata_raw <- read.csv("data/coraltaxonomydata.csv")
+```
+
+Install & load neccessary packages:
+```{r}
+install.packages("monographaR")
+```
+
+
